@@ -1,0 +1,2 @@
+# Core dependencies
+tk                         # GUI interface (Tkinter)
