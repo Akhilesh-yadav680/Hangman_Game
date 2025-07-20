@@ -1,5 +1,28 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
 venv/
-.env
+env/
+.venv/
+ENV/
+
+# Logs
 *.log
+
+# Environment variables
+.env
+
+# Tkinter-related or GUI cache
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode or IDE settings
+.vscode/
+.idea/
